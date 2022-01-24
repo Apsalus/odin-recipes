@@ -1,0 +1,19 @@
+p {
+	background: purple;
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+ul {
+	width: 200px;
+}
+
+li {
+	background-color: yellow;
+	color: white;
+	border-style: outset;
+	align: 
+	text-align: center;
+	width: 150px;
+}
